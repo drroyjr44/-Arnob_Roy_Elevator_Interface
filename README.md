@@ -2,6 +2,8 @@
 
 ![Alt Text](https://media.giphy.com/media/Dm0ZiGBP0359L4vStI/giphy.gif)
 
+Figures: Elevator User Interface from an Apartment Elevator consisting of 4 floors.
+
 Elevator Operation Gif: https://media.giphy.com/media/Dm0ZiGBP0359L4vStI/giphy.gif
 
 In this current design of the user interface of the elevator, there are 2 columns and 6 rows of user buttons and technician controls. The top 4 rows consist of the most important and frequently used controls – the 1st, 2nd, 3rd and 4th floor; the elevator door-open and door-close button, and the emergency alarm button. This is a good user-friendly interface with a minimalistic design so that the users can easily and quickly understand the interface and make use of the elevator. There is clear numeric digit beside each floor buttons to make sure the user can understand the functionality of the buttons and can quickly select the floor they need to go. The open and close door button also come with a clearly understandable icons, where <|> indicates the door opening outwards, and the >|< means the door closing inwards from both sides. There is a CALL button on the 5th row and 1st column, with a telephone icon which indicates the user to press the call button in case the user needs assistance. Furthermore, there is also a Bell button on the 4th row 5th column which the user can press during cases of emergency such as elevator breakdown or fire. 
@@ -13,5 +15,7 @@ When a user gets inside an elevator, the regular sequence of actions is the user
 
 
 <img src="https://i.imgur.com/pCEO93X.jpg" width="600"> 
+Figure: Sketch prototype of Re-designed elevator UI (White Board-Marker Sketch)
 
 ![Alt Text](https://media.giphy.com/media/PawCO6XPVSsGXlede8/giphy.gif)
+Figure: Digital Prototype of Re-designed elevator UI (designed using Processing)
