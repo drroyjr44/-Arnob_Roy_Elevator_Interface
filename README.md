@@ -15,7 +15,10 @@ When a user gets inside an elevator, the regular sequence of actions is the user
 
 
 <img src="https://i.imgur.com/pCEO93X.jpg" width="600"> 
+
 Figure: Sketch prototype of Re-designed elevator UI (White Board-Marker Sketch)
+
+
 
 ![Alt Text](https://media.giphy.com/media/PawCO6XPVSsGXlede8/giphy.gif)
 
